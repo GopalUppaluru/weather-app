@@ -1,0 +1,13 @@
+<div class="container">
+  <div class="card" *ngFor="let city of citiesList">
+    <div class="card-body"><a [routerLink]="['/cityData',city.cityName,city.lat,city.long]">{{city.cityName}}</a>
+      <ul>
+        <li>Temperature : {{city.temperature}}</li>
+        <li>Sunrise : {{city.sunriseTime}}</li>
+        <li>Sunset : {{city.sunsetTime}}</li>
+        <li>Weather : {{city.weather.main}}</li>
+      </ul>
+    </div>
+
+  </div>
+</div>

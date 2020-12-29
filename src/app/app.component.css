@@ -1,0 +1,83 @@
+.one {
+
+    background-color: dimgray;
+    padding-bottom:.5vw;
+      padding-top: .5vw;
+      padding-left: 0.5%;
+   }
+
+   .note{
+       background-color:	rgb(211,211,211);
+       color:black;
+       font-size: 14px;
+       font-style:arial;
+       
+   }
+
+   
+.bodyDiv{
+  height: auto; 
+  font-family: Akkurat Pro; 
+
+  /*display:inline-block; */
+}
+.titleDiv{
+    background-color:black;   
+    padding-bottom:1vw;
+    padding-top: 1vw;    
+    font-size: 1.5vw; 
+    font-weight: bold;
+    padding-left: 2.5%;
+    width:100%;
+}
+
+
+.ratings{
+  height: 25px;
+  color: #E02020;
+  font-size: 21px;    
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+
+.heading{
+  height: 25px; 
+  color: #FFFFFF;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.option1{
+ 
+  border:none;
+  width:100%;
+  border-bottom: 1px solid  #A0A0A0;  
+  outline: none;
+  color:  black;
+}
+
+
+   .ml-1 {
+    margin-left:2px !important;
+  }
+
+  #custom-button {
+ 
+  cursor: pointer;
+  font-weight: bold;
+  margin-left:125px !important;
+}
+
+#custom-button:hover {
+  background-color: #d0d7d2;
+}
+
+#custom-text {
+  margin-left: px;
+  font-family: sans-serif;
+  font-size: small;
+  padding-left: 5px;
+  
+}

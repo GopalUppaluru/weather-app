@@ -1,0 +1,75 @@
+
+{
+  "Contacts": [
+    { "firstName": "Thiru" ,
+      "lastName" : "Reddy", 
+      "contactType" : "Rated Entity" ,
+      "Employer" : "republic of finance",
+      "emailID" : "thirupathi.b@spglobal.com",
+      "telephone" : "9949757026",
+      "country"   : "India",
+      "city"  : "Kadapa",
+      "timeZone" : "GST"
+        },
+
+        { "firstName": "Kalyani" ,
+          "lastName" : "Mauboina", 
+          "contactType" : "Rated Entity" ,
+          "Employer" : "republic of finance",
+          "emailID" : "kalyani.maruboina@spglobal.com",
+          "telephone" : "9999464344",
+          "country"   : "France",
+          "city"  : "Paris",
+          "timeZone" : "GST"
+            },
+            
+            { "firstName": "Omrai" ,
+              "lastName" : "Sagar", 
+              "contactType" : "Rated Entity" ,
+              "Employer" : "CCR Re",
+              "emailID" : "omrai.sagar@spglobal.com",
+              "telephone" : "9999333322",
+              "country"   : "France",
+              "city"  : "Paris",
+              "timeZone" : "GST"
+                },
+
+                { "firstName": "Satya" ,
+                  "lastName" : "Narayana", 
+                  "contactType" : "Rated Entity" ,
+                  "Employer" : "republic of finance",
+                  "emailID" : "satya.narayana@spglobal.com",
+                  "telephone" : "8889464344",
+                  "country"   : "USA",
+                  "city"  : "NY",
+                  "timeZone" : "GST"
+                    },
+                    { "firstName": "Swapna" ,
+                      "lastName" : "Patibandla", 
+                      "contactType" : "Non-Rated Entity" ,
+                      "Employer" : "Casie",
+                      "emailID" : "swapna.patibandla@spglobal.com",
+                      "telephone" : "8888888888",
+                      "country"   : "France",
+                      "city"  : "Paris ",
+                      "timeZone" : "IST"
+                        }
+                    
+          ],
+
+          "TimeZones" : [
+            { "id": "1", "name" : "Atlantic/Cape_Verde" },
+            { "id": "2", "name" : "America/Cayman" },
+            { "id": "3", "name" : "Asia/Harbin" },
+            { "id": "4", "name" : "America/Santiago" },
+            { "id": "5", "name": "Asia/Hovd" },
+            { "id": "6", "name" : "America/Bogota" },
+            { "id": "7", "name" : "America/Curacao" },
+            { "id": "8", "name" : "Europe/Prague" },
+            {"id" : "9", "name" : "Atlantic/Cape_Verde Europeion Region"}
+
+      
+          ]
+  
+}
+
